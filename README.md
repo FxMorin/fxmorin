@@ -9,6 +9,6 @@
 - 💬 Ask me anything about Java, Minecraft, Decompiling, or Injecting code into running processes.
 - 📫 How to reach me:
   - Discord: FX#8959
-  - Email: api[at]fxco[dot]ca
+  - Email: fx[at]fxco[dot]ca
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I lucid dream every night, sometimes I code in my dreams
